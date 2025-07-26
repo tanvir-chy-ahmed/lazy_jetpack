@@ -86,7 +86,7 @@ cd jetpack-compose-ui-showcase
 
 ## ✨ Author
 
-Made with ❤️ by [Tanvir Ahmed Chowdhury](https://github.com/tanvir-ahmed-chy)
+Made with ❤️ by [Tanvir Ahmed Chowdhury](https://github.com/tanvir-chy-ahmed)
 
 ---
 
